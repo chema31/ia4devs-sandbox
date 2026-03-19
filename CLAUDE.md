@@ -26,3 +26,6 @@ specs/          # Especificaciones de features
 src/            # Código fuente
 CLAUDE.md       # Este fichero
 ```
+
+## Sesión con Claude Code
+claude --resume a196a19a-6f4a-4115-91a5-496e55057686
